@@ -2,6 +2,9 @@
 //let -> block
 //const -> block
 
+import Me from './me'
+import Teacher, {promote} from './teacher'
+
 function sayHello() {
     for (var i = 0; i < 5; i++) {
         console.log(i)
@@ -87,8 +90,6 @@ const merge = {...one, ...two, location: 'iran'};
 console.log(merge);
 
 
-import Me from './me'
-import Teacher, {promote} from './teacher'
 
 //Default -> import ... from '';
 //Named -> import {...} from '';
