@@ -5,7 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="048b624a-f773-4abe-ac26-2cfdc30924af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/02-es6-refresher/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-es6-refresher/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-0-components/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-0-components/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-0-components/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-0-components/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-0-components/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-0-components/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-0-components/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-0-components/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-0-components/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-0-components/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-0-components/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-0-components/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-0-components/src/components/counter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-0-components/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-0-components/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-0-components/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-0-components/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-0-components/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03-0-components/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +72,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -65,14 +88,37 @@
       <workItem from="1636519078877" duration="25000" />
       <workItem from="1636655493129" duration="2987000" />
       <workItem from="1636682807570" duration="2956000" />
-      <workItem from="1636812773501" duration="2907000" />
+      <workItem from="1636812773501" duration="4979000" />
+      <workItem from="1636830545223" duration="678000" />
+      <workItem from="1636831258012" duration="308000" />
+      <workItem from="1636831605229" duration="407000" />
+      <workItem from="1636832044455" duration="2115000" />
+      <workItem from="1637001169763" duration="5184000" />
+      <workItem from="1637038876173" duration="296000" />
+      <workItem from="1637245648695" duration="3305000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
