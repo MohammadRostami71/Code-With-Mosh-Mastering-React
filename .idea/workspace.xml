@@ -5,29 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="048b624a-f773-4abe-ac26-2cfdc30924af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/04-composing-components/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-composing-components/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-composing-components/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-composing-components/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-composing-components/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-composing-components/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-composing-components/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-composing-components/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-composing-components/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-composing-components/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-composing-components/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-composing-components/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-composing-components/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-composing-components/src/components/counter.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-composing-components/src/components/counters.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-composing-components/src/components/navbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-composing-components/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-composing-components/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-composing-components/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-composing-components/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04-composing-components/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/components/common/like.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/components/common/listGroup.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/components/common/pagination.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/components/common/table.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/components/common/tableBody.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/components/common/tableHeader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/components/movies.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/components/moviesTable.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/services/fakeGenreService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/services/fakeMovieService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/utils/paginate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,13 +81,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/04-composing-components/components" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Jalizan/jalizan-web-app" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Learn Video\Web Video\GitHub-Project\Code With Mosh - Mastering React\Code-With-Mosh-Mastering-React\05-pagination-filtering-and-sorting" />
       <recent name="D:\Learn Video\Web Video\GitHub-Project\Code With Mosh - Mastering React\Code-With-Mosh-Mastering-React\04-composing-components\components" />
       <recent name="D:\Learn Video\Web Video\GitHub-Project\Code With Mosh - Mastering React\Code-With-Mosh-Mastering-React\04-composing-components" />
       <recent name="D:\Learn Video\Web Video\GitHub-Project\Code With Mosh - Mastering React\Code-With-Mosh-Mastering-React\03-1-vidly\src" />
@@ -107,7 +119,16 @@
       <workItem from="1637038876173" duration="296000" />
       <workItem from="1637245648695" duration="12121000" />
       <workItem from="1637266531699" duration="3130000" />
-      <workItem from="1637297450199" duration="6740000" />
+      <workItem from="1637297450199" duration="16692000" />
+      <workItem from="1637421312094" duration="4073000" />
+      <workItem from="1637559881428" duration="39000" />
+      <workItem from="1638728307784" duration="22000" />
+      <workItem from="1642128499176" duration="1442000" />
+      <workItem from="1642173541652" duration="3187000" />
+      <workItem from="1642177678151" duration="2587000" />
+      <workItem from="1642346490271" duration="7844000" />
+      <workItem from="1642656046366" duration="287000" />
+      <workItem from="1643283295763" duration="9084000" />
     </task>
     <servers />
   </component>
