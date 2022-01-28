@@ -5,40 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="048b624a-f773-4abe-ac26-2cfdc30924af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/components/common/like.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/components/common/listGroup.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/components/common/pagination.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/components/common/table.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/components/common/tableBody.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/components/common/tableHeader.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/components/movies.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/components/moviesTable.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/services/fakeGenreService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/services/fakeMovieService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/src/utils/paginate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-pagination-filtering-and-sorting/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-1-routing-router-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-1-routing-router-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-1-routing-router-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-1-routing-router-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-1-routing-router-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-1-routing-router-app/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-1-routing-router-app/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-1-routing-router-app/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-1-routing-router-app/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-1-routing-router-app/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-1-routing-router-app/src/components/admin/dashboard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-1-routing-router-app/src/components/admin/posts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-1-routing-router-app/src/components/admin/sidebar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-1-routing-router-app/src/components/admin/users.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-1-routing-router-app/src/components/home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-1-routing-router-app/src/components/navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-1-routing-router-app/src/components/notFound.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-1-routing-router-app/src/components/posts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-1-routing-router-app/src/components/productDetails.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-1-routing-router-app/src/components/products.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-1-routing-router-app/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-1-routing-router-app/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-1-routing-router-app/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-1-routing-router-app/src/registerServiceWorker.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,13 +72,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Jalizan/jalizan-web-app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/06-1-routing-router-app" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Learn Video\Web Video\GitHub-Project\Code With Mosh - Mastering React\Code-With-Mosh-Mastering-React\06-1-routing-router-app" />
       <recent name="D:\Learn Video\Web Video\GitHub-Project\Code With Mosh - Mastering React\Code-With-Mosh-Mastering-React\05-pagination-filtering-and-sorting" />
       <recent name="D:\Learn Video\Web Video\GitHub-Project\Code With Mosh - Mastering React\Code-With-Mosh-Mastering-React\04-composing-components\components" />
       <recent name="D:\Learn Video\Web Video\GitHub-Project\Code With Mosh - Mastering React\Code-With-Mosh-Mastering-React\04-composing-components" />
@@ -128,7 +120,8 @@
       <workItem from="1642177678151" duration="2587000" />
       <workItem from="1642346490271" duration="7844000" />
       <workItem from="1642656046366" duration="287000" />
-      <workItem from="1643283295763" duration="9084000" />
+      <workItem from="1643283295763" duration="9095000" />
+      <workItem from="1643368434408" duration="6746000" />
     </task>
     <servers />
   </component>
