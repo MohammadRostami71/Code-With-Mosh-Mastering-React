@@ -5,36 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="048b624a-f773-4abe-ac26-2cfdc30924af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/src/components/common/like.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/src/components/common/listGroup.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/src/components/common/pagination.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/src/components/common/table.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/src/components/common/tableBody.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/src/components/common/tableHeader.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/src/components/customers.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/src/components/movieForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/src/components/movies.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/src/components/moviesTable.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/src/components/navBar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/src/components/notFound.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/src/components/rentals.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/src/registerServiceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/src/services/fakeGenreService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/src/services/fakeMovieService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06-2-routing-vidly-app/src/utils/paginate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/components/common/form.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/components/common/input.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/components/common/like.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/components/common/listGroup.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/components/common/pagination.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/components/common/select.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/components/common/table.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/components/common/tableBody.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/components/common/tableHeader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/components/customers.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/components/loginForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/components/movieForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/components/movies.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/components/moviesTable.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/components/navBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/components/notFound.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/components/registerForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/components/rentals.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/components/searchBox.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/registerServiceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/services/fakeGenreService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/services/fakeMovieService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07-forms/src/utils/paginate.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,18 +87,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/06-2-routing-vidly-app/src/components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/07-forms" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Learn Video\Web Video\GitHub-Project\Code With Mosh - Mastering React\Code-With-Mosh-Mastering-React\07-forms" />
       <recent name="D:\Learn Video\Web Video\GitHub-Project\Code With Mosh - Mastering React\Code-With-Mosh-Mastering-React\06-2-routing-vidly-app\src\components" />
       <recent name="D:\Learn Video\Web Video\GitHub-Project\Code With Mosh - Mastering React\Code-With-Mosh-Mastering-React\06-2-routing-vidly-app" />
       <recent name="D:\Learn Video\Web Video\GitHub-Project\Code With Mosh - Mastering React\Code-With-Mosh-Mastering-React\06-1-routing-router-app" />
       <recent name="D:\Learn Video\Web Video\GitHub-Project\Code With Mosh - Mastering React\Code-With-Mosh-Mastering-React\05-pagination-filtering-and-sorting" />
-      <recent name="D:\Learn Video\Web Video\GitHub-Project\Code With Mosh - Mastering React\Code-With-Mosh-Mastering-React\04-composing-components\components" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Learn Video\Web Video\GitHub-Project\Code With Mosh - Mastering React\Code-With-Mosh-Mastering-React\04-composing-components\src" />
@@ -128,7 +137,10 @@
       <workItem from="1642656046366" duration="287000" />
       <workItem from="1643283295763" duration="9095000" />
       <workItem from="1643368434408" duration="8403000" />
-      <workItem from="1643538459125" duration="3461000" />
+      <workItem from="1643538459125" duration="12074000" />
+      <workItem from="1643721852158" duration="9000" />
+      <workItem from="1643721891186" duration="4023000" />
+      <workItem from="1643872034596" duration="9965000" />
     </task>
     <servers />
   </component>
