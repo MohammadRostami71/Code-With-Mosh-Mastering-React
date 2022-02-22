@@ -5,45 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="048b624a-f773-4abe-ac26-2cfdc30924af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/07-forms/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/components/common/form.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/components/common/input.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/components/common/like.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/components/common/listGroup.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/components/common/pagination.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/components/common/select.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/components/common/table.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/components/common/tableBody.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/components/common/tableHeader.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/components/customers.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/components/loginForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/components/movieForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/components/movies.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/components/moviesTable.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/components/navBar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/components/notFound.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/components/registerForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/components/rentals.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/components/searchBox.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/registerServiceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/services/fakeGenreService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/services/fakeMovieService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07-forms/src/utils/paginate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-1-http-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-1-http-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-1-http-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-1-http-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-1-http-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-1-http-app/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-1-http-app/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-1-http-app/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-1-http-app/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-1-http-app/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-1-http-app/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-1-http-app/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-1-http-app/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-1-http-app/src/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-1-http-app/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-1-http-app/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-1-http-app/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-1-http-app/src/registerServiceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-1-http-app/src/services/httpService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08-1-http-app/src/services/logService.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +53,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/08-1-http-app/package.json" />
+  </component>
   <component name="ProjectId" id="20h197QMuYuMHVKl5UFEw1QNDBJ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -87,7 +71,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/07-forms" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Academic-Portfolio/Academic-Portfolio" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -101,6 +85,7 @@
       <recent name="D:\Learn Video\Web Video\GitHub-Project\Code With Mosh - Mastering React\Code-With-Mosh-Mastering-React\05-pagination-filtering-and-sorting" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Learn Video\Web Video\GitHub-Project\Code With Mosh - Mastering React\Code-With-Mosh-Mastering-React\08-1-http-app\src" />
       <recent name="D:\Learn Video\Web Video\GitHub-Project\Code With Mosh - Mastering React\Code-With-Mosh-Mastering-React\04-composing-components\src" />
     </key>
   </component>
@@ -140,7 +125,13 @@
       <workItem from="1643538459125" duration="12074000" />
       <workItem from="1643721852158" duration="9000" />
       <workItem from="1643721891186" duration="4023000" />
-      <workItem from="1643872034596" duration="9965000" />
+      <workItem from="1643872034596" duration="11340000" />
+      <workItem from="1645370554062" duration="14000" />
+      <workItem from="1645370640704" duration="123000" />
+      <workItem from="1645370815230" duration="4132000" />
+      <workItem from="1645426054416" duration="3635000" />
+      <workItem from="1645466293896" duration="874000" />
+      <workItem from="1645510107353" duration="9119000" />
     </task>
     <servers />
   </component>
